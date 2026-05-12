@@ -1,4 +1,4 @@
----
+opsi pengembang---
 manufacturer: 
     - oppo
 
